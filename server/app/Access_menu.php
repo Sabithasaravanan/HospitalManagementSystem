@@ -13,3 +13,11 @@ class Access_menu extends Model
         return $this->belongsTo(User::class);
     }
 }
+
+
+
+
+
+
+
+ysgajabxjgajsbmabsj
